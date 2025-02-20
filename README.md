@@ -13,3 +13,7 @@ A collection of awesome things related to AI.
 ### Design2Code
 
 - [figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
+
+### Book
+
+- [AI Engineering](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
