@@ -21,3 +21,7 @@ A collection of awesome things related to AI.
 ### Podcast
 
 - [AI Engineering with Chip Huyen](https://www.youtube.com/watch?v=98o_L3jlixw)
+
+### Tutorial
+
+- [Deepseek AI with React, Tanstack Start and Ollama](https://www.youtube.com/watch?v=iEg7MyXSrU0)
