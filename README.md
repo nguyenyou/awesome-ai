@@ -12,6 +12,7 @@ A collection of awesome things related to AI.
 
 ### Design2Code
 
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 
 ### Book
