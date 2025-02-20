@@ -17,3 +17,7 @@ A collection of awesome things related to AI.
 ### Book
 
 - [AI Engineering](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
+
+### Podcast
+
+- [AI Engineering with Chip Huyen](https://www.youtube.com/watch?v=98o_L3jlixw)
