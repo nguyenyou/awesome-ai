@@ -1,2 +1,4 @@
-# awesome-ai
-🎉 A curated list of awesome things related to AI
+# Awesome AI
+
+A collection of awesome things related to AI.
+
