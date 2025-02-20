@@ -10,6 +10,10 @@ A collection of awesome things related to AI.
 
 - [web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser
 
+### Proxy
+
+- [litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+
 ### Design2Code
 
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -17,7 +21,6 @@ A collection of awesome things related to AI.
 - [build-it-figma-ai](https://github.com/jordansinger/build-it-figma-ai)
 - [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [FigmaChain](https://github.com/cirediatpl/FigmaChain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs.
-- [assistant](https://github.com/gridaco/assistant)
 
 ### Book
 
