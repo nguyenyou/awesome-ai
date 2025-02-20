@@ -22,6 +22,10 @@ A collection of awesome things related to AI.
 - [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [FigmaChain](https://github.com/cirediatpl/FigmaChain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs.
 
+### Code
+
+- [full-stack-fastapi-mongodb](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more.
+
 ### Book
 
 - [AI Engineering](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
