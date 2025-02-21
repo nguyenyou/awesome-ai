@@ -14,6 +14,10 @@ A collection of awesome things related to AI.
 
 - [web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser
 
+### UI
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model
+- [ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+
 ### Proxy
 
 - [litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
