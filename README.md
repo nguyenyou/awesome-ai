@@ -2,6 +2,10 @@
 
 A collection of awesome things related to AI.
 
+### SDK
+
+- [Vercel AI SDK](https://github.com/vercel/ai)
+
 ### Testing
 
 - [midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator
