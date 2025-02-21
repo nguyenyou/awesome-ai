@@ -20,6 +20,7 @@ A collection of awesome things related to AI.
 
 ### Design2Code
 
+- [builder.io](https://github.com/builderio/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [build-it-figma-ai](https://github.com/jordansinger/build-it-figma-ai)
