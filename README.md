@@ -46,3 +46,7 @@ A collection of awesome things related to AI.
 ### Tutorial
 
 - [Deepseek AI with React, Tanstack Start and Ollama](https://www.youtube.com/watch?v=iEg7MyXSrU0)
+
+### Related lib
+
+- [shiki-stream](https://github.com/antfu/shiki-stream) - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
