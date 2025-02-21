@@ -2,6 +2,10 @@
 
 A collection of awesome things related to AI.
 
+### RAG
+
+- [PIKE-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
+
 ### SDK
 
 - [Vercel AI SDK](https://github.com/vercel/ai)
