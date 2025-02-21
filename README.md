@@ -5,6 +5,7 @@ A collection of awesome things related to AI.
 ### RAG
 
 - [PIKE-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
+- [supavec](https://github.com/taishikato/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
 
 ### SDK
 
