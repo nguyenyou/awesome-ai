@@ -5,6 +5,7 @@ A collection of awesome things related to AI.
 ### Code Assistant
 
 - [Continue](https://www.continue.dev/) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
 ### MCP
 
