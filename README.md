@@ -7,6 +7,7 @@ A collection of awesome things related to AI.
 - [cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
+- [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
 
 ### RAG
 
