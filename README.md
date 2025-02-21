@@ -2,6 +2,10 @@
 
 A collection of awesome things related to AI.
 
+### MCP
+
+- [Building MCP with LLMs](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
+
 ### RAG
 
 - [PIKE-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
