@@ -14,6 +14,10 @@ A collection of awesome things related to AI.
 
 - [litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
+### MCP
+
+- [Stripe MCP](https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol)
+
 ### Design2Code
 
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
