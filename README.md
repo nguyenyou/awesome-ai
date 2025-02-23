@@ -2,6 +2,10 @@
 
 A collection of awesome things related to AI.
 
+### Bench
+
+- [SWE-bench](https://github.com/swe-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
+
 ### Prompt
 
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
