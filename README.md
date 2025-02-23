@@ -2,6 +2,12 @@
 
 A collection of awesome things related to AI.
 
+### Promt
+
+- [Cloudflare Prompting AI Models](https://developers.cloudflare.com/agents/build/prompts/)
+- [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+
 ### Code Assistant
 
 - [Continue](https://github.com/continuedev/continue) (⭐23.7k) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
