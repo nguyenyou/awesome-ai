@@ -4,9 +4,9 @@ A collection of awesome things related to AI.
 
 ### Prompt
 
-- [Cloudflare Prompting AI Models](https://developers.cloudflare.com/agents/build/prompts/)
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Cloudflare Prompting AI Models](https://developers.cloudflare.com/agents/build/prompts/)
 
 ### Code Assistant
 
