@@ -23,6 +23,7 @@ A collection of awesome things related to AI.
 
 ### MCP
 
+- [Stripe MCP](https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol)
 - [Building MCP with LLMs](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 
 ### RAG
