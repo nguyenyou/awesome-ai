@@ -76,6 +76,7 @@ A collection of awesome things related to AI.
 ### Generate Code
 
 - [bolt.new](https://github.com/stackblitz/bolt.new) (⭐13k) - Prompt, run, edit, and deploy full-stack web applications
+- [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) (⭐12.6k) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [cofounder](https://github.com/raidendotai/cofounder) (⭐6.2k) - ai-generated apps , full stack + generative UI
 - [openv0](https://github.com/raidendotai/openv0) (⭐3.8k) - AI generated UI components
 - [dewhale](https://github.com/Yuyz0112/dewhale) (⭐1.4k) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
