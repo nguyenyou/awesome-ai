@@ -100,5 +100,6 @@ A collection of awesome things related to AI.
 
 ### Figma AI Generate Code
 
+- [Figma Dev Mode](https://www.figma.com/plugin-docs/working-in-dev-mode/)
 - [create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - 🔋 The comprehensive toolkit for developing plugins and widgets for Figma and FigJam
 - [Plugin Quickstart](https://www.figma.com/plugin-docs/plugin-quickstart-guide/)
