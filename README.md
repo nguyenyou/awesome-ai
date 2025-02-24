@@ -97,3 +97,7 @@ A collection of awesome things related to AI.
 ### Related lib
 
 - [shiki-stream](https://github.com/antfu/shiki-stream) (⭐402) - Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.
+
+### Figma AI Generate Code
+
+- [Plugin Quickstart](https://www.figma.com/plugin-docs/plugin-quickstart-guide/)
