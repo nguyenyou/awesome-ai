@@ -10,6 +10,7 @@ A collection of awesome things related to AI.
 
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Gemini Prompt Engineering](https://ai.google.dev/gemini-api/docs/prompting-intro)
 - [Cloudflare Prompting AI Models](https://developers.cloudflare.com/agents/build/prompts/)
 
 ### Code Assistant
